@@ -1,0 +1,29 @@
+body {
+
+    font-family: sans-serif;
+
+    padding: 10px;
+
+    background: #222;
+
+    color: white;
+
+}
+
+
+input[type="range"] {
+
+    width: 100%;
+
+}
+
+
+button {
+
+    width: 100%;
+
+    padding: 8px;
+
+    cursor: pointer;
+
+}
